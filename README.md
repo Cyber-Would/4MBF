@@ -1,4 +1,4 @@
-$ pkg update
+$ pkg update\n
 $ pkg upgrade
 $ pkg install python
 $ pkg install python2
